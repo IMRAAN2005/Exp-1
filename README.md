@@ -2,15 +2,6 @@
 
 # AIM:
 
-# SRS (Procedure):
-
-# DIAGRAMS:
-(upload all 6 diagrams)
-
-# RESULT:# Exp-1 ATM & BANKING SYSTEM
-
-# AIM:
-
 To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
 
 # PROBLEM STATEMENT:
@@ -76,4 +67,3 @@ Design the database with tables for Customer, Account, and Transaction.
 # RESULT:
 
 Thus the Atm and banking System project was executed and the output was verified.
-
